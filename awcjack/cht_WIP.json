@@ -41,5 +41,5 @@
 	,"cWIP_download_complete_title"			: " 下載完成"
 	,"cWIP_download_complete_message"		: " 已完成下載，遊戲將重設語言為英語，請在重新開啟遊戲後，在語言選擇中選取該語言以轉換。"
 	
-	"cWIP_version_string_addition" : " 正體中文化"
+	,"cWIP_version_string_addition" : " 正體中文化"
 }
