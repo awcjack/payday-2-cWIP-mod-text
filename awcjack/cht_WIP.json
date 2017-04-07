@@ -9,7 +9,7 @@
 	,"cWIP_NetDebugMode_D"	: "awcjack is watching you!v(^=.=^)v Tast is behind you v(^=.=^)v"
 	,"cWIP_StringIDType_T"	: "StringID顯示方式"
 	,"cWIP_StringIDType_D"	: "StringID顯示方式：原樣顯示、純StringID、StringID + 文字 (需要重啟遊戲以應用)"
-		,"cWIP_StringIDType_1"	: "原樣顯示"
+		,"cWIP_StringIDType_1"	: "純中文"
 		,"cWIP_StringIDType_2"	: "純StringID"
 		,"cWIP_StringIDType_3"	: "StringID + 文字"
 	,"cWIP_SayTranslate_T"	: "翻譯成英文"
@@ -42,4 +42,11 @@
 	,"cWIP_download_complete_message"		: " 已完成下載，遊戲將重設語言為英語，請在重新開啟遊戲後，在語言選擇中選取該語言以轉換。"
 	
 	,"cWIP_version_string_addition" : " 正體中文化"
+	,"cWIP_Contact_author_T" : "聯絡作者"
+	,"cWIP_Contact_author_D" : "打開作者管理的 Steam 群組網頁(需要打開 Steam 內嵌介面)。"
+	,"cWIP_options_Dev_Only_T" : "開發、除錯專用"
+	,"cWIP_options_Dev_Only_D" : "當遇到奇怪的問題，當你想協助開發，在嘗試先記得看清楚，不要做錯了再上巴哈找我:D"
+	,"cWIP_multiprofile_error" : "錯誤"
+	,"cWIP_multiprofile_name" : "資料頁 "
+	
 }
