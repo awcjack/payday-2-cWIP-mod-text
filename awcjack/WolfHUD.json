@@ -838,5 +838,5 @@
 	"wolfhud_skipit_options_name" : "跳過選項",
 	"wolfhud_skipit_options_help" : "選項可自動跳過不必要的選項以節省時間.",
 	"wolfhud_assaultbanner_options_name" : "突擊橫幅選項",
-	"wolfhud_assaultbanner_options_help" : "用於更改Assault Banner的選項.",
+	"wolfhud_assaultbanner_options_help" : "用於更改Assault Banner的選項."
 }
