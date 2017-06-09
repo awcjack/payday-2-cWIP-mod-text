@@ -1,0 +1,16 @@
+{
+  "link": "https://raw.githubusercontent.com/awcjack/payday-2-cWIP-mod-text/master/list.txt",
+  "revision": 1,
+  "language": [
+    {
+      "tag": "0riginal",
+      "language": "English",
+      "list": "https://raw.githubusercontent.com/awcjack/payday-2-cWIP-mod-text/master/0riginal/list.txt"
+    },
+    {
+      "tag": "cht",
+      "language": "Chinese (Traditional) 正體中文",
+      "list": "https://raw.githubusercontent.com/awcjack/payday-2-cWIP-mod-text/master/cht/list.txt"
+    }
+  ]
+}
