@@ -9,6 +9,11 @@
       "tag": "x778888778",
       "author": "綠茶地瓜",
       "link": "https://raw.githubusercontent.com/dream6179/-lua-josn-txt/master/list.txt"
+    },
+	{
+      "tag": "x778888778",
+      "author": "綠茶地瓜2",
+      "link": "https://raw.githubusercontent.com/dream6179/-lua-josn-txt/master/list.txt"
     }
   ]
 }
