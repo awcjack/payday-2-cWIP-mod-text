@@ -8,7 +8,7 @@
     {
       "tag": "x778888778",
       "author": "綠茶地瓜",
-      "link": "https://raw.githubusercontent.com/awcjack/payday-2-cWIP-mod-text/master/awcjack/list.txt"
+      "link": "https://raw.githubusercontent.com/dream6179/-lua-josn-txt/master/list.txt"
     }
   ]
 }
