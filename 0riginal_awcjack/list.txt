@@ -1,0 +1,9 @@
+{
+  "link": "https://raw.githubusercontent.com/awcjack/payday-2-cWIP-mod-text/master/awcjack/",
+  "list": [
+    {
+      "name": "中文化模組",
+      "tag": "cht_WIP.json"
+    }
+  ]
+}
